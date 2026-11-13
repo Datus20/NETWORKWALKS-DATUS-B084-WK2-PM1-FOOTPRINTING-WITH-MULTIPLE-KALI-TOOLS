@@ -56,3 +56,9 @@ The Purpose of this project is to do Reconnaissance or Footprinting  Web securit
 - **Wafw00f**
 - **Dnsrecon**
   
+---
+
+## 🛡️ WHOIS
+
+Whois is a tool which is used to for reconnaisance or footprinting to **show registry**,**registrar**,**creatiion date**,**expiry date**,**server name** and more details of the website hosted. As per below illustration show the *nne
+
