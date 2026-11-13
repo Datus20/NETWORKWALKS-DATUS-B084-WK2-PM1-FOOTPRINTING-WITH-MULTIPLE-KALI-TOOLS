@@ -66,6 +66,7 @@ The Purpose of this project is to do Reconnaissance or Footprinting  Web securit
 
 <img width="1366" height="767" alt="Whois" src="https://github.com/user-attachments/assets/d86b0fbc-821b-418f-8c4f-f5a35694f118" />
 </p>
+
 ---
 
 ## 🤷🏻 WHATWEB 🌎
@@ -87,6 +88,8 @@ As illustarted below on the footprinting done on the **networkwalk.com**
 <img width="1366" height="767" alt="nslookup" src="https://github.com/user-attachments/assets/d984ddb3-8658-4e72-9499-efefef04a872" />
 </p>
 
+---
+
 ## 🌀 CURL 🌎
 
 **Curl** is is used to check and read the HTTP responce headers to see status, banners,**cookies** and if there is any **redirection** on a website visited,
@@ -95,6 +98,8 @@ As illustarted below on the footprinting done on the **networkwalk.com**
 
 <img width="1366" height="767" alt="curl" src="https://github.com/user-attachments/assets/9e572bc1-061b-49dc-b868-63c7756b2877" />
 </p>
+
+---
 
 ## 🔥🧱 Wafw00f 🌎
 
