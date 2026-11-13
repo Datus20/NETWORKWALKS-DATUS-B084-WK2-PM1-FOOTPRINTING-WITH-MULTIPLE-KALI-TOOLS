@@ -62,13 +62,16 @@ The Purpose of this project is to do Reconnaissance or Footprinting  Web securit
 
 **Whois** is a tool which is used to for reconnaisance or footprinting to show or display **registry**,**registrar**,**creatiion date**,**expiry date**,**server name** and more details of the website hosted. As per below illustration show **"networkwalks.com"**
 </div>
+</div>
 <img width="1366" height="767" alt="Whois" src="https://github.com/user-attachments/assets/d86b0fbc-821b-418f-8c4f-f5a35694f118" />
 
 ---
 
 ## 🤷🏻 WHATWEB 🌎
 
-**Whatweb** is is a tool which is used to for reconnaisance or footprinting to for display oor show the **technologies**, **software vesrions**, **downloadm manager** that are used on a webserver  frmaes and **ip  address** As per below illustration show **"networkwalks.com"**
+**Whatweb** is is a tool which is used to for reconnaisance or footprinting to for display oor show the **technologies**, **software vesrions**, **download manager** that are used on a webserver  frmaes and **ip  address** As per below illustration show **"networkwalks.com"**
+</div>
+</div>
 <img width="1366" height="767" alt="whatweb" src="https://github.com/user-attachments/assets/42fac8ff-4759-4a1a-a0a2-7b13de07e8ea" />
 
 
