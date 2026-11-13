@@ -1,2 +1,62 @@
 # NETWORKWALKS-DATUS-B084-WK2-PM1-FOOTPRINTING-WITH-MULTIPLE-KALI-TOOLS
-Footprinting with using multiple kali tool inorder to fetch/ get infomrations concern the target
+<div align="center">
+
+
+# 👣 Footprinting
+
+**Footprinting with using multiple kali tool inorder to fetch/ get infomrations concern the target**
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Network-10.0.0.0%2F24-238F89?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-C00000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-Virtualization-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-404040?style=flat-square&labelColor=C00000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+</p>
+
+---
+
+## 📌 Project Overview
+
+This project focuses on using a kali tools **Footprinting about on target inorder to fetch/get available iformation about a target** using and Kali Linux.
+
+The purpose of the lab is to use cybersecurity tools, for footprintinhg inorder to identify vulnerability, include who own a domain  register expiry, technologies running  website, who is hosting  adomain, Webapplication firewall,DNS Records, IP & mail services,
+
+The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
+
+---
+
+
+## 🎯 Objectives
+
+The main objectives of this project are to:
+
+- Install and configure VirtualBox.
+- Install/import Kali Linux as a virtual machine.
+- Create a private **NAT Network** for the cybersecurity lab.
+- Configure network connectivity for Kali Linux.
+- Assign a consistent IP address to the Kali and other VMs.
+- Verify network connectivity and DNS resolution.
+- Take a clean VM snapshot for recovery.
+- Document the complete setup process.
+- Prepare the environment for future cybersecurity projects.
+
+---
+
+## 🛡️ Purpose of the Lab
+
+The lab provides an isolated and controlled environment for cybersecurity learning and authorized security testing.
+
+It can be used for activities such as:
+
+- Network reconnaissance
+- Port scanning
+- Vulnerability assessment
+- Packet analysis
+- Web security testing
