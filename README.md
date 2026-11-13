@@ -92,5 +92,16 @@ As illustarted below on the footprinting done on the **networkwalk.com**
 </div>
 
 <img width="1366" height="767" alt="curl" src="https://github.com/user-attachments/assets/9e572bc1-061b-49dc-b868-63c7756b2877" />
+</p>
 
+---
+
+## 🔥🧱 Wafw00f 🌎
+
+**Wafw00f** is a tool which is used to for reconnaisance or footprinting to show wheather the targeted website is protected by the **Web Application firewall** and display type of a WAF implemented. 
+As per below illustration show **"networkwalks.com"**
+</div>
+
+
+<img width="1366" height="767" alt="Waf" src="https://github.com/user-attachments/assets/645e7714-3169-4bc9-a396-24c2c380c3cf" />
 
