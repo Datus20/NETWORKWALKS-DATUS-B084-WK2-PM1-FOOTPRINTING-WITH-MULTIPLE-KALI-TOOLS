@@ -48,12 +48,11 @@ The main objectives of this project are to:
 
 ## 🛡️ Purpose of the Project
 
-The lab provides an isolated and controlled environment for cybersecurity learning and authorized security testing.
-
-It can be used for activities such as:
-
-- Network reconnaissance
-- Port scanning
-- Vulnerability assessment
-- Packet analysis
-- Web security testing
+The Purpose of this project is to do Reconnaissance or Footprinting  Web security testing by using Kali tools  listed as below,such as:
+- **Whois**
+- **Whatweb**
+- **Nslookup**
+- **Curl**
+- **Wafw00f**
+- **Dnsrecon**
+  
