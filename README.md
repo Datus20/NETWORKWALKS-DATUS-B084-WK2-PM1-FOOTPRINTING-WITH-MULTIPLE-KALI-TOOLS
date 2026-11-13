@@ -4,7 +4,7 @@
 
 # 👣 Reconnaissance/Footprinting
 
-**Footprinting with using multiple kali tool inorder to fetch/ get infomrations concern the target**
+**Footprinting with using multiple kali tool in order to fetch/get informations concern the target**
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on using a kali tools **Footprinting about on target inorder to fetch/get available iformation about a target** using and Kali Linux.
+This project focuses on using a kali tools **Footprinting about on target inorder to fetch/get available information about a target** using and Kali Linux.
 
 The purpose of the lab is to use cybersecurity tools, for footprintinhg inorder to identify vulnerability, include who own a domain  register expiry, technologies running  website, who is hosting  adomain, Webapplication firewall,DNS Records, IP & mail services,
 
