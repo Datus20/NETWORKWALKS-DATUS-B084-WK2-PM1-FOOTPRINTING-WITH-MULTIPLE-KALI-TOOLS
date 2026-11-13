@@ -2,7 +2,7 @@
 <div align="center">
 
 
-# 👣 reconnaissance/Footprinting
+# 👣 Reconnaissance/Footprinting
 
 **Footprinting with using multiple kali tool inorder to fetch/ get infomrations concern the target**
 </div>
