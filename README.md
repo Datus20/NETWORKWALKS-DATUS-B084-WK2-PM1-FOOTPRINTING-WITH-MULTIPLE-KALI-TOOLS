@@ -28,8 +28,6 @@ This project focuses on using a kali tools **Footprinting about on target inorde
 
 The purpose of the lab is to use cybersecurity tools, for footprintinhg inorder to identify vulnerability, include who own a domain  register expiry, technologies running  website, who is hosting  adomain, Webapplication firewall,DNS Records, IP & mail services,
 
-The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
-
 ---
 
 
