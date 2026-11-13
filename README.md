@@ -122,4 +122,23 @@ As per below illustration show **"networkwalks.com"**
 ---
 
 
+# 🔗 Tools & Resources
+
+- **Whois:** (https://www.kali.org/tools/whois/)
+- **Whatweb:**  (https://www.kali.org/tools/whatweb/)
+- **nslookup:** (https://www.kali.org/tools/bind9/)
+- **Curl:**  (https://www.kali.org/tools/curl/)
+- **Wafw00f:**  (https://www.kali.org/tools/wafw00f/)
+- **dnsrecon:** (https://www.kali.org/tools/dnsrecon/)
+
+# 👤 Author
+
+**Datus Ekwabi**\
+
+LinkedIn: [www.linkedin.com/in/datus-ekwabi-43b622173
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 02 | **Project:** Reconnaissance/ Footprinting| **Repository:** GitHub
 
