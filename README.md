@@ -108,4 +108,20 @@ As per below illustration show **"networkwalks.com"**
 </div>
 
 <img width="1366" height="767" alt="Waf" src="https://github.com/user-attachments/assets/645e7714-3169-4bc9-a396-24c2c380c3cf" />
+</p>
+
+---
+
+## 👁️‍🗨️ DNSRecon 🌎
+
+**dnsrecon** is a tool which is used to for reconnaisance or footprinting to senumerate all DNS records, DNS Queries, also help to gathering information on the target domain. 
+As per below illustration show **"networkwalks.com"**
+</div>
+
+<img width="1366" height="767" alt="dnsrecon" src="https://github.com/user-attachments/assets/d742fdaf-cdec-477a-ab0f-f81c8848641b" />
+</p>
+
+---
+
+
 
