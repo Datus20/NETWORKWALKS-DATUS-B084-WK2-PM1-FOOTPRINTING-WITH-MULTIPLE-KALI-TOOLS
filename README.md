@@ -95,7 +95,6 @@ As illustarted below on the footprinting done on the **networkwalk.com**
 
 <img width="1366" height="767" alt="curl" src="https://github.com/user-attachments/assets/9e572bc1-061b-49dc-b868-63c7756b2877" />
 </p>
----
 
 ## 🔥🧱 Wafw00f 🌎
 
