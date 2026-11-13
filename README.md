@@ -114,7 +114,7 @@ As per below illustration show **"networkwalks.com"**
 
 ## 👁️‍🗨️ DNSRecon 🌎
 
-**dnsrecon** is a tool which is used to for reconnaisance or footprinting to senumerate all DNS records, DNS Queries, also help to gathering information on the target domain. 
+**dnsrecon** is a tool which is used to for reconnaisance or footprinting to senumerate all DNS records, DNS Queries,  text service record also help to gathering information on the target domain mail.mail server DNS software version. 
 As per below illustration show **"networkwalks.com"**
 </div>
 
