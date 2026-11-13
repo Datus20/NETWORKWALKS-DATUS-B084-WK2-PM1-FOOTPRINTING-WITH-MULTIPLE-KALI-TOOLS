@@ -61,6 +61,7 @@ The Purpose of this project is to do Reconnaissance or Footprinting  Web securit
 ## 🕵🏿‍♂️ WHOIS
 
 **Whois** is a tool which is used to for reconnaisance or footprinting to show or display **registry**,**registrar**,**creatiion date**,**expiry date**,**server name** and more details of the website hosted. As per below illustration show **"networkwalks.com"**
+</div>
 <img width="1366" height="767" alt="Whois" src="https://github.com/user-attachments/assets/d86b0fbc-821b-418f-8c4f-f5a35694f118" />
 
 ---
