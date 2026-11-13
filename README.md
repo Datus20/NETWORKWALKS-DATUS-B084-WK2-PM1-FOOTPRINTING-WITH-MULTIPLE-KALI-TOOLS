@@ -58,22 +58,39 @@ The Purpose of this project is to do Reconnaissance or Footprinting  Web securit
   
 ---
 
-## 🕵🏿‍♂️ WHOIS
+## 🕵🏿‍♂️ WHOIS 🌎
 
 **Whois** is a tool which is used to for reconnaisance or footprinting to show or display **registry**,**registrar**,**creatiion date**,**expiry date**,**server name** and more details of the website hosted. As per below illustration show **"networkwalks.com"**
 </div>
-</div>
+
+
 <img width="1366" height="767" alt="Whois" src="https://github.com/user-attachments/assets/d86b0fbc-821b-418f-8c4f-f5a35694f118" />
 
 ---
 
 ## 🤷🏻 WHATWEB 🌎
 
-**Whatweb** is is a tool which is used to for reconnaisance or footprinting to for display oor show the **technologies**, **software vesrions**, **download manager** that are used on a webserver  frmaes and **ip  address** As per below illustration show **"networkwalks.com"**
+**Whatweb** is a tool which is used to for reconnaisance or footprinting to for display oor show the **technologies**, **software vesrions**, **download manager** that are used on a webserver  frmaes and **ip  address** As per below illustration show **"networkwalks.com"**
 </div>
-</div>
+
+
 <img width="1366" height="767" alt="whatweb" src="https://github.com/user-attachments/assets/42fac8ff-4759-4a1a-a0a2-7b13de07e8ea" />
 
 
+## 🕵️‍♂️ NSLOOKUP 🌎
+
+**Nslookup** is is used to check the doamin name resolution or resolving the domain name into IP address and show if there is any redirection of the domain servers,
+As illustarted below on the footprinting done on the **networkwalk.com**
+</div>
+
+<img width="1366" height="767" alt="nslookup" src="https://github.com/user-attachments/assets/d984ddb3-8658-4e72-9499-efefef04a872" />
+
+## 🌀 CURL 🌎
+
+**Curl** is is used to check and read the HTTP responce headers to see status, banners,**cookies** and if there is any **redirection** on a website visited,
+As illustarted below on the footprinting done on the **networkwalk.com**
+</div>
+
+<img width="1366" height="767" alt="curl" src="https://github.com/user-attachments/assets/9e572bc1-061b-49dc-b868-63c7756b2877" />
 
 
